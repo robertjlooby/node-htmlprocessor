@@ -1,5 +1,5 @@
 {
-  "name": "htmlprocessor",
+  "name": "htmlprocessor-prepend",
   "description": "Process html file using special comments",
   "version": "0.1.2",
   "author": {
